@@ -1,2 +1,1 @@
-# Simple GO Operator 
-## Playing with OperatorSDK 
+# AK - Simple GO Operator 
