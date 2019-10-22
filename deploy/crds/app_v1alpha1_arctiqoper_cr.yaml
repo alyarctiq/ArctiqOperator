@@ -1,0 +1,10 @@
+apiVersion: app.arctiq.com/v1alpha1
+kind: ArctiqOper
+metadata:
+  name: arctiq-demo
+spec:
+  # Add fields here
+  count: 5
+  group: Demo-App
+  image: nginx
+  port: 80
