@@ -1,1 +1,2 @@
-# ArctiqOperator
+# Simple GO Operator 
+## Playing with OperatorSDK 
